@@ -3,7 +3,7 @@
 ### I'm Data Analyst Student
 - 📚 I'm currently MS student of  Computer Science with specialisation Big Data Analyst
 - 🎓 I have finished bachelor's degree in 
-Computer Science and Econometrics wih specialisation Data Analyst at the University of Economics in Katowice
+Computer Science and Econometrics with specialisation Data Analyst at the University of Economics in Katowice
 - 👨‍💻 I'm currently working with SQL, learning Python and using R and SAS.
 
 **Languages and Tools**
