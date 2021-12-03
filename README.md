@@ -1,20 +1,19 @@
-### Hi there, I'm Paweł! 👋
+## Hi there, I'm Paweł! 👋
 
-## Data Analyst Student
+### I'm Data Analyst Student
 - 📚 I'm currently MS student of  Computer Science with specialisation Big Data Analyst
 - 🎓 I have finished bachelor's degree in 
 Computer Science and Econometrics wih specialisation Data Analyst at the University of Economics in Katowice
-- 👨‍💻  I'm currently using/learning: Python, SQL, R, SAS
+- 👨‍💻 I'm currently working with SQL, learning Python and using R and SAS.
 
-**Languages and tools**
+**Languages and Tools**
 <p align="left">
 
 <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" /></a>
-<a href="https://www.r-project.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/r/r-original.svg" alt="R" height="40" width="40" /></a>
 <a href="https://www.sas.com/" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/sas-logo-business-analytics-and-business-intelligence-software.png" alt="SAS" height="70" width="70" /></a>
+<a href="https://www.r-project.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/r/r-original.svg" alt="R" height="40" width="40" /></a>
 <a href="https://git-scm.com//" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="GIT" height="30" width="40" /></a>
-<a href="https://www.atlassian.com/pl/software/jira" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original.svg" alt="JIRA" height="30" width="40" /></a>
-<a href="https://www.oracle.com/pl/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/oracle/oracle-original.svg" alt="ORACLE" height="40" width="40" /></a>
+
 
 
 🔗 &nbsp;**Connect with me**
