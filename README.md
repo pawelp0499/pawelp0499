@@ -1,10 +1,10 @@
 ## Hi there, I'm Paweł! 👋
 
 ### About me
-- 👨‍💻 Junior Software Developer (ORACLE DB) with strong Machine Learning foundations 
-- 📚 I'm currently MS student of  Computer Science with specialisation Big Data Analytics
-- 🎓 I have finished bachelor's degree in 
-Computer Science and Econometrics with specialisation Data Analytics at the University of Economics in Katowice
+- 👨‍💻 Currently working as Software Developer (mainly in the area of ​​databases and Oracle technologies)
+- 🎓 I also have strong Machine Learning foundations, I finished: 
+📚 bachelor's degree in Computer Science and Econometrics with specialisation Data Analytics
+📚 master's degree in Computer Science with specialisation Big Data analysis
 
 
 **Languages and Tools**
