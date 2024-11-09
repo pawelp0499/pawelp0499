@@ -2,9 +2,10 @@
 
 ### About me
 - 👨‍💻 Currently working as Software Developer (mainly in the area of ​​databases and Oracle technologies)
-- 🎓 I also have strong Machine Learning foundations, I finished: 
-📚 bachelor's degree in Computer Science and Econometrics with specialisation Data Analytics
-📚 master's degree in Computer Science with specialisation Big Data analysis
+- 🎓 I also have strong Machine Learning foundations, I finished:
+
+  - bachelor's degree in Computer Science and Econometrics with specialisation Data Analytics
+  - master's degree in Computer Science with specialisation Big Data analysis
 
 
 **Languages and Tools**
@@ -23,5 +24,7 @@
 <p align="left">
 
 
-<a href="https://linkedin.com/in/pawel-pechta" target="blank"><img align="center" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="LinkedIN" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pawel-pechta" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-share-work-brand-pack-logos-icons-2284689.png?f=webp&w=256" alt="LinkedIN" height="30" width="30" /></a>
 <a href="mailto:pawel.pechta@wp.pl" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/725/725643.png" alt="pawel.pechta@wp.pl" height="40" width="40" /></a>
+
+
